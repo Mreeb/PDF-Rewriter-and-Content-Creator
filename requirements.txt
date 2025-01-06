@@ -1,0 +1,8 @@
+fitz
+tqdm
+python-docx
+Pillow
+openai
+pypdf
+pymupdf
+PyPDF2  

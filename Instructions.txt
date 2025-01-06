@@ -1,0 +1,17 @@
+
+Install Visual Studio Code (VS Code):
+
+1:  Download VS Code from the official website: https://code.visualstudio.com/.
+    Run the installer and follow the setup instructions.
+    Ensure you check the option to "Add to PATH" during installation.
+    Install Python:
+
+2:  Download Python from the official website: https://www.python.org/downloads/.
+    Run the installer and enable the "Add Python to PATH" option.
+    Verify the installation by running python --version in the terminal.
+    Now proceed with the following steps:
+
+3:  Edit or write the prompt in the prompt.txt file.
+4:  Paste the API key in the API_KEY.txt file.
+5:  In the terminal, run pip install -r requirements.txt.
+6:  Execute the command python app.py to start the application.
